@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '30 10 * * *'
   workflow_dispatch:
+
+# Add permissions for the workflow
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -54,7 +59,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -A
+          git add script/sheep-metrics.json script/debug_sheep_lines.txt script/debug_sheep_lines_numbered.txt
           git diff --quiet && git diff --staged --quiet || git commit -m "Update sheep text metrics [automated]"
           
       - name: Push changes
