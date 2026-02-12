@@ -32,8 +32,6 @@ const puppeteer = require("puppeteer");
       line.includes("Scroll") ||
       line.includes("Applied filters") ||
       line.includes("Species is") ||
-      line.includes("Average $/Head") ||
-      line.includes("Date ") ||
       line.includes("APLUS Sheep Market") ||
       line.includes("Tuesday Sheep National") ||
       line.includes("To scroll down") ||
@@ -41,7 +39,6 @@ const puppeteer = require("puppeteer");
       line.includes("When opening") ||
       line.includes("Use filters") ||
       line === "Select Row" ||
-      line === "National" ||
       line === "Stock Category" ||
       line === "State" ||
       line === "All"
@@ -85,6 +82,12 @@ const puppeteer = require("puppeteer");
     );
 
     console.log(`Total lines after filtering: ${lines.length}`);
+
+    // Show first 50 lines for debugging
+    console.log("\n→ First 50 lines:");
+    lines.slice(0, 50).forEach((line, i) => {
+      console.log(`  ${i}: ${line}`);
+    });
 
     // ----------------------------------------------------------
     // Define metric keys
