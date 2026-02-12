@@ -8,7 +8,7 @@ const puppeteer = require("puppeteer");
 
 (async () => {
   const url = "https://mcmanusm.github.io/sheep_metrics/";
-  const outputFile = "sheep-metrics.json";
+  const outputFile = "../sheep-metrics.json";
 
   // ----------------------------------------------------------
   // Helpers
@@ -87,9 +87,9 @@ const puppeteer = require("puppeteer");
       .filter(l => l && !isJunkLine(l));
 
     // Save debug files
-    fs.writeFileSync("debug_sheep_lines.txt", lines.join("\n"));
+    fs.writeFileSync("../debug_sheep_lines.txt", lines.join("\n"));
     fs.writeFileSync(
-      "debug_sheep_lines_numbered.txt",
+      "../debug_sheep_lines_numbered.txt",
       lines.map((l, i) => `${i}: ${l}`).join("\n")
     );
 
