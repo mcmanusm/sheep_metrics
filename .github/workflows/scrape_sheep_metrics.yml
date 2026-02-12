@@ -1,0 +1,64 @@
+name: Scrape Sheep Text Metrics
+on:
+  schedule:
+    - cron: '30 10 * * *'
+  workflow_dispatch:
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+      
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libnss3 \
+            libatk-bridge2.0-0 \
+            libdrm-dev \
+            libxkbcommon-dev \
+            libgbm-dev \
+            libasound-dev \
+            libatspi2.0-0 \
+            libxshmfence-dev
+          
+      - name: Install dependencies
+        run: |
+          npm install puppeteer
+          npx puppeteer browsers install chrome
+        
+      - name: Debug - Show file structure
+        run: |
+          echo "=== Root directory ==="
+          ls -la
+          echo ""
+          echo "=== Script directory ==="
+          ls -la script/
+          echo ""
+          echo "=== Show first 10 lines of script ==="
+          head -10 script/scrape_sheep_metrics.js
+        
+      - name: Run sheep scraper
+        run: |
+          cd script
+          node scrape_sheep_metrics.js
+        
+      - name: Commit updated metrics
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update sheep text metrics [automated]"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
