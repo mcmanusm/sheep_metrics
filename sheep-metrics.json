@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-12T12:06:05.208Z",
+  "updated_at": "2026-02-12T13:53:24.002Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -72,7 +72,7 @@
       "clearance": "100%"
     },
     {
-      "stock_category": "Other",
+      "stock_category": "Sheep",
       "category": "Merino Wethers",
       "offered": "970",
       "weight_range": "22 - 65kg",
@@ -86,7 +86,7 @@
       "clearance": "100%"
     },
     {
-      "stock_category": "Other",
+      "stock_category": "Joined Ewes",
       "category": "SIL Merino Ewes",
       "offered": "4,013",
       "weight_range": "38 - 99kg",
@@ -100,7 +100,7 @@
       "clearance": "80%"
     },
     {
-      "stock_category": "Other",
+      "stock_category": "Joined Ewes",
       "category": "SM Merino Ewes",
       "offered": "1,758",
       "weight_range": "38 - 76kg",
@@ -114,7 +114,7 @@
       "clearance": "100%"
     },
     {
-      "stock_category": "Other",
+      "stock_category": "Joined Ewes",
       "category": "SIL First Cross Ewes",
       "offered": "1,335",
       "weight_range": "40 - 107kg",
@@ -128,7 +128,7 @@
       "clearance": "90%"
     },
     {
-      "stock_category": "Other",
+      "stock_category": "Joined Ewes",
       "category": "SM First Cross Ewes",
       "offered": "80",
       "weight_range": "58 - 88kg",
@@ -142,7 +142,7 @@
       "clearance": "100%"
     },
     {
-      "stock_category": "Other",
+      "stock_category": "Joined Ewes",
       "category": "SIL Shedding Breed Ewes",
       "offered": "411",
       "weight_range": "38 - 115kg",
@@ -156,7 +156,7 @@
       "clearance": "100%"
     },
     {
-      "stock_category": "Other",
+      "stock_category": "Joined Ewes",
       "category": "SM Shedding Breed Ewes",
       "offered": "1,020",
       "weight_range": "39 - 88kg",
@@ -170,7 +170,7 @@
       "clearance": "61%"
     },
     {
-      "stock_category": "Other",
+      "stock_category": "NSM Ewes",
       "category": "Merino Ewe Hoggets",
       "offered": "4,245",
       "weight_range": "22 - 77kg",
@@ -184,7 +184,7 @@
       "clearance": "57%"
     },
     {
-      "stock_category": "Other",
+      "stock_category": "NSM Ewes",
       "category": "Merino Ewes",
       "offered": "1,910",
       "weight_range": "40 - 88kg",
@@ -198,7 +198,7 @@
       "clearance": "86%"
     },
     {
-      "stock_category": "Other",
+      "stock_category": "NSM Ewes",
       "category": "Shedding Breed Ewes",
       "offered": "1,133",
       "weight_range": "24 - 87kg",
@@ -212,7 +212,7 @@
       "clearance": "71%"
     },
     {
-      "stock_category": "Other",
+      "stock_category": "NSM Ewes",
       "category": "Composite/Other Breed Ewes",
       "offered": "1,712",
       "weight_range": "23 - 94kg",
