@@ -1,0 +1,65 @@
+{
+  "updated_at": "2026-02-12T16:30:42.016Z",
+  "templates": [
+    {
+      "price_stock_category": "Category (CC) Sheep",
+      "text_template_head": "Text Message Template $/Head (Sheep)",
+      "text_template_ckg": "Text Message Template c/kg (Sheep)"
+    },
+    {
+      "price_stock_category": "Crossbred Lambs",
+      "text_template_head": "X-bred Lmb $207",
+      "text_template_ckg": "X-bred Lmb 542c"
+    },
+    {
+      "price_stock_category": "Merino Wether Lambs",
+      "text_template_head": "Mer Wth Lmb $166",
+      "text_template_ckg": "Mer Wth Lmb 485c"
+    },
+    {
+      "price_stock_category": "First Cross Ewe Lambs",
+      "text_template_head": "Other $232",
+      "text_template_ckg": "Other 577c"
+    },
+    {
+      "price_stock_category": "Shedding Breed Lambs",
+      "text_template_head": "Shedding Lmb $179",
+      "text_template_ckg": "Shedding Lmb 506c"
+    },
+    {
+      "price_stock_category": "SIL Merino Ewes",
+      "text_template_head": "SIL Mer Ewe $285",
+      "text_template_ckg": "SIL Mer Ewe 463c"
+    },
+    {
+      "price_stock_category": "SM Merino Ewes",
+      "text_template_head": "Other $289",
+      "text_template_ckg": "Other 485c"
+    },
+    {
+      "price_stock_category": "SIL First Cross Ewes",
+      "text_template_head": "Other $322",
+      "text_template_ckg": "Other 502c"
+    },
+    {
+      "price_stock_category": "SM First Cross Ewes",
+      "text_template_head": "Other $374",
+      "text_template_ckg": "Other 491c"
+    },
+    {
+      "price_stock_category": "Merino Ewe Hoggets",
+      "text_template_head": "Mer Ewe Hgt $208",
+      "text_template_ckg": "Mer Ewe Hgt 424c"
+    },
+    {
+      "price_stock_category": "Merino Ewes",
+      "text_template_head": "Mer Ewe $200",
+      "text_template_ckg": "Mer Ewe 344c"
+    },
+    {
+      "price_stock_category": "Shedding Breed Ewes",
+      "text_template_head": "Shedding Ewes $228",
+      "text_template_ckg": "Shedding Ewes 513c"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+0: Show keyboard shortcuts
+1: Show screen reader tips
+2: Skip to main content
+3: Power BI Report
+4: Tuesday Sheep National Averages - 10 February 2026
+5: Category (CC) Sheep
+6: Text Message Template $/Head (Sheep)
+7: Text Message Template c/kg (Sheep)
+8: Crossbred Lambs
+9: X-bred Lmb $207
+10: X-bred Lmb 542c
+11: Merino Wether Lambs
+12: Mer Wth Lmb $166
+13: Mer Wth Lmb 485c
+14: First Cross Ewe Lambs
+15: Other $232
+16: Other 577c
+17: Shedding Breed Lambs
+18: Shedding Lmb $179
+19: Shedding Lmb 506c
+20: SIL Merino Ewes
+21: SIL Mer Ewe $285
+22: SIL Mer Ewe 463c
+23: SM Merino Ewes
+24: Other $289
+25: Other 485c
+26: SIL First Cross Ewes
+27: Other $322
+28: Other 502c
+29: SM First Cross Ewes
+30: Other $374
+31: Other 491c
+32: Merino Ewe Hoggets
+33: Mer Ewe Hgt $208
+34: Mer Ewe Hgt 424c
+35: Merino Ewes
+36: Mer Ewe $200
+37: Mer Ewe 344c
+38: Shedding Breed Ewes
+39: Shedding Ewes $228
+40: Shedding Ewes 513c
+41: -
+42: +
+43: 94%
+44: Microsoft Power BI
+45: 2of2
+46: Sheep Text
+47: Text Message Template
+48: Report Zoomed To 94%
