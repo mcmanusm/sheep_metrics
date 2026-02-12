@@ -48,15 +48,6 @@ const puppeteer = require("puppeteer");
     );
   }
 
-  // Determine stock category from category name
-  function getStockCategory(categoryName) {
-    if (categoryName.includes("Lambs")) return "Lambs";
-    if (categoryName.includes("Sheep") && !categoryName.includes("Ewes")) return "Sheep";
-    if (categoryName.includes("Joined Ewes")) return "Joined Ewes";
-    if (categoryName.includes("NSM Ewes")) return "NSM Ewes";
-    return "Other";
-  }
-
   const browser = await puppeteer.launch({
     headless: "new",
     args: ["--no-sandbox", "--disable-setuid-sandbox"]
@@ -96,31 +87,8 @@ const puppeteer = require("puppeteer");
     console.log(`Total lines after filtering: ${lines.length}`);
 
     // ----------------------------------------------------------
-    // Define sheep categories based on the dashboard
+    // Define metric keys
     // ----------------------------------------------------------
-    const categories = [
-      // Lambs
-      "Crossbred Lambs",
-      "Merino Wether Lambs",
-      "First Cross Ewe Lambs",
-      "Shedding Breed Lambs",
-      "Composite/Other Breed Lambs",
-      // Sheep
-      "Merino Wethers",
-      // Joined Ewes
-      "SIL Merino Ewes",
-      "SM Merino Ewes",
-      "SIL First Cross Ewes",
-      "SM First Cross Ewes",
-      "SIL Shedding Breed Ewes",
-      "SM Shedding Breed Ewes",
-      // NSM Ewes
-      "Merino Ewe Hoggets",
-      "Merino Ewes",
-      "Shedding Breed Ewes",
-      "Composite/Other Breed Ewes"
-    ];
-
     const metricKeys = [
       "offered",
       "weight_range",
@@ -134,9 +102,12 @@ const puppeteer = require("puppeteer");
       "clearance"
     ];
 
+    // Stock categories that appear in the National column
+    const stockCategories = ["Lambs", "Sheep", "Joined Ewes", "NSM Ewes"];
+
     function isStopLine(line) {
       const label = extractLabel(line);
-      return categories.includes(label);
+      return stockCategories.includes(label);
     }
 
     function parseMetrics(startIndex) {
@@ -157,27 +128,44 @@ const puppeteer = require("puppeteer");
     }
 
     // ----------------------------------------------------------
-    // Parse categories
+    // Parse data: look for stock category, then category name
     // ----------------------------------------------------------
     const output = {
       updated_at: new Date().toISOString(),
       national: []
     };
 
+    let currentStockCategory = null;
+
     for (let i = 0; i < lines.length; i++) {
       const label = extractLabel(lines[i]);
 
-      // Check if this line matches a category
-      if (categories.includes(label)) {
+      // Check if this line is a stock category (from National column)
+      if (stockCategories.includes(label)) {
+        currentStockCategory = label;
+        console.log(`  Stock Category: ${currentStockCategory}`);
+        continue;
+      }
+
+      // If we have a stock category set, next non-junk line should be the category name
+      if (currentStockCategory) {
+        // This line should be the category name (from Category (CC) Sheep column)
+        const categoryName = label;
+        
+        // Parse the metrics for this row
         const metrics = parseMetrics(i);
+        
         const payload = {
-          stock_category: getStockCategory(label),
-          category: label,
+          stock_category: currentStockCategory,
+          category: categoryName,
           ...metrics
         };
 
         output.national.push(payload);
-        console.log(`  Found: ${label}`);
+        console.log(`    Category: ${categoryName}`);
+        
+        // Reset after capturing the category
+        currentStockCategory = null;
       }
     }
 
