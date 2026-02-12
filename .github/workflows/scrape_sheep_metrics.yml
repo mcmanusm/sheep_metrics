@@ -43,12 +43,12 @@ jobs:
           ls -la script/
           echo ""
           echo "=== Show first 10 lines of script ==="
-          head -10 script/scrape_sheep_metrics.js
+          head -10 script/puppeteer_scrape_sheep_js
         
       - name: Run sheep scraper
         run: |
           cd script
-          node scrape_sheep_metrics.js
+          node puppeteer_scrape_sheep_js
         
       - name: Commit updated metrics
         run: |
