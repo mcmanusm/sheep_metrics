@@ -149,28 +149,16 @@ $234
 41%
 NSM Ewes
 Merino Ewes
-1,945
+1,745
 41 - 76kg
-53kg
-$180 - $202
-$198
--5
-344 - 403c
-373c
-24
-64%
-NSM Ewes
-First Cross Ewes
-561
-35 - 77kg
-57kg
-$270 - $295
-$283
--
-443 - 538c
-495c
--
-62%
+54kg
+$195 - $202
+$201
+-1
+373 - 403c
+378c
+27
+60%
 NSM Ewes
 Shedding Breed Ewes
 1,167

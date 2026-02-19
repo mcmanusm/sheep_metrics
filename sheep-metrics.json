@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-18T11:12:11.303Z",
+  "updated_at": "2026-02-19T11:12:47.037Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -158,30 +158,16 @@
     {
       "stock_category": "NSM Ewes",
       "category": "Merino Ewes",
-      "offered": "1,945",
+      "offered": "1,745",
       "weight_range": "41 - 76kg",
-      "avg_weight": "53kg",
-      "dollar_head_range": "$180 - $202",
-      "avg_dollar_head": "$198",
-      "change_dollar_head": "-5",
-      "c_kg_range": "344 - 403c",
-      "avg_c_kg": "373c",
-      "change_c_kg": "24",
-      "clearance": "64%"
-    },
-    {
-      "stock_category": "NSM Ewes",
-      "category": "First Cross Ewes",
-      "offered": "561",
-      "weight_range": "35 - 77kg",
-      "avg_weight": "57kg",
-      "dollar_head_range": "$270 - $295",
-      "avg_dollar_head": "$283",
-      "change_dollar_head": "-",
-      "c_kg_range": "443 - 538c",
-      "avg_c_kg": "495c",
-      "change_c_kg": "-",
-      "clearance": "62%"
+      "avg_weight": "54kg",
+      "dollar_head_range": "$195 - $202",
+      "avg_dollar_head": "$201",
+      "change_dollar_head": "-1",
+      "c_kg_range": "373 - 403c",
+      "avg_c_kg": "378c",
+      "change_c_kg": "27",
+      "clearance": "60%"
     },
     {
       "stock_category": "NSM Ewes",
