@@ -23,10 +23,10 @@ Crossbred Lambs
 $147 - $257
 $220
 0
-505 - 691c
-590c
-26
-89%
+485 - 691c
+584c
+19
+95%
 Lambs
 Merino Wether Lambs
 13,006
@@ -36,9 +36,9 @@ $115 - $242
 $187
 15
 444 - 710c
-525c
-37
-95%
+524c
+35
+97%
 Lambs
 Merino Ewe Lambs
 1,432
@@ -68,13 +68,13 @@ First Cross Ewe Lambs
 3,002
 29 - 73kg
 50kg
-$197 - $332
-$273
--34
+$197 - $350
+$290
+-17
 517 - 683c
-578c
-9
-45%
+575c
+6
+58%
 Lambs
 Shedding Breed Lambs
 5,182
@@ -95,10 +95,10 @@ Composite/Other Breed Lambs
 $191 - $253
 $222
 -16
-518 - 571c
-535c
--31
-93%
+472 - 571c
+531c
+-36
+100%
 Joined Ewes
 SIL Merino Ewes
 5,433
