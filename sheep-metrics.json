@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-05T11:06:53.298Z",
+  "updated_at": "2026-03-06T11:02:08.905Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -60,16 +60,16 @@
     {
       "stock_category": "Lambs",
       "category": "First Cross Ewe Lambs",
-      "offered": "3,185",
+      "offered": "3,285",
       "weight_range": "31 - 66kg",
       "avg_weight": "48kg",
       "dollar_head_range": "$220 - $319",
-      "avg_dollar_head": "$263",
-      "change_dollar_head": "-26",
+      "avg_dollar_head": "$262",
+      "change_dollar_head": "-27",
       "c_kg_range": "523 - 647c",
-      "avg_c_kg": "571c",
-      "change_c_kg": "4",
-      "clearance": "72%"
+      "avg_c_kg": "570c",
+      "change_c_kg": "3",
+      "clearance": "73%"
     },
     {
       "stock_category": "Lambs",
@@ -79,10 +79,10 @@
       "avg_weight": "34kg",
       "dollar_head_range": "$125 - $211",
       "avg_dollar_head": "$191",
-      "change_dollar_head": "-6",
+      "change_dollar_head": "-7",
       "c_kg_range": "480 - 598c",
       "avg_c_kg": "520c",
-      "change_c_kg": "-103",
+      "change_c_kg": "-99",
       "clearance": "92%"
     },
     {
@@ -228,16 +228,16 @@
     {
       "stock_category": "NSM Ewes",
       "category": "Composite/Other Breed Ewes",
-      "offered": "3,025",
+      "offered": "3,105",
       "weight_range": "26 - 88kg",
       "avg_weight": "44kg",
-      "dollar_head_range": "$198 - $365",
-      "avg_dollar_head": "$228",
-      "change_dollar_head": "-80",
+      "dollar_head_range": "$145 - $365",
+      "avg_dollar_head": "$222",
+      "change_dollar_head": "-86",
       "c_kg_range": "376 - 630c",
-      "avg_c_kg": "520c",
-      "change_c_kg": "-93",
-      "clearance": "79%"
+      "avg_c_kg": "516c",
+      "change_c_kg": "-97",
+      "clearance": "83%"
     }
   ]
 }
