@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-11T11:06:26.196Z",
+  "updated_at": "2026-03-12T11:06:27.335Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -60,16 +60,16 @@
     {
       "stock_category": "Lambs",
       "category": "First Cross Ewe Lambs",
-      "offered": "1,551",
+      "offered": "1,451",
       "weight_range": "23 - 63kg",
       "avg_weight": "38kg",
       "dollar_head_range": "$216 - $280",
-      "avg_dollar_head": "$232",
-      "change_dollar_head": "-31",
-      "c_kg_range": "526 - 745c",
-      "avg_c_kg": "642c",
-      "change_c_kg": "71",
-      "clearance": "79%"
+      "avg_dollar_head": "$233",
+      "change_dollar_head": "-28",
+      "c_kg_range": "593 - 745c",
+      "avg_c_kg": "652c",
+      "change_c_kg": "83",
+      "clearance": "77%"
     },
     {
       "stock_category": "Lambs",
