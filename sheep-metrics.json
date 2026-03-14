@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-12T11:06:27.335Z",
+  "updated_at": "2026-03-14T10:54:50.640Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -218,12 +218,12 @@
       "weight_range": "27 - 58kg",
       "avg_weight": "41kg",
       "dollar_head_range": "$216 - $268",
-      "avg_dollar_head": "$223",
-      "change_dollar_head": "23",
+      "avg_dollar_head": "$225",
+      "change_dollar_head": "25",
       "c_kg_range": "557 - 667c",
-      "avg_c_kg": "649c",
-      "change_c_kg": "51",
-      "clearance": "90%"
+      "avg_c_kg": "641c",
+      "change_c_kg": "42",
+      "clearance": "100%"
     }
   ]
 }
