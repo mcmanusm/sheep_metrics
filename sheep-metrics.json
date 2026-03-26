@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T11:12:39.838Z",
+  "updated_at": "2026-03-26T11:27:36.910Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -238,20 +238,6 @@
       "avg_c_kg": "409c",
       "change_c_kg": "58",
       "clearance": "79%"
-    },
-    {
-      "stock_category": "NSM Ewes",
-      "category": "First Cross Ewes",
-      "offered": "1,036",
-      "weight_range": "33 - 86kg",
-      "avg_weight": "55kg",
-      "dollar_head_range": "$240 - $280",
-      "avg_dollar_head": "$263",
-      "change_dollar_head": "-",
-      "c_kg_range": "369 - 505c",
-      "avg_c_kg": "448c",
-      "change_c_kg": "-",
-      "clearance": "38%"
     },
     {
       "stock_category": "NSM Ewes",
