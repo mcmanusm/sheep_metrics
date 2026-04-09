@@ -17,16 +17,16 @@ Change
 Clearance
 Lambs
 Crossbred Lambs
-10,031
+8,230
 19 - 69kg
-39kg
+40kg
 $124 - $281
-$243
--14
-526 - 733c
-618c
--17
-90%
+$247
+-8
+526 - 717c
+610c
+-30
+87%
 Lambs
 Merino Wether Lambs
 10,508
@@ -34,10 +34,10 @@ Merino Wether Lambs
 34kg
 $127 - $237
 $196
--9
+-13
 459 - 650c
 575c
--2
+-6
 78%
 Lambs
 Merino Ewe Lambs
