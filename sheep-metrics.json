@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-04-09T11:31:29.348Z",
+  "updated_at": "2026-04-10T11:26:00.323Z",
   "national": [
     {
       "stock_category": "Lambs",
       "category": "Crossbred Lambs",
-      "offered": "8,230",
+      "offered": "9,291",
       "weight_range": "19 - 69kg",
-      "avg_weight": "40kg",
+      "avg_weight": "39kg",
       "dollar_head_range": "$124 - $281",
-      "avg_dollar_head": "$247",
-      "change_dollar_head": "-8",
+      "avg_dollar_head": "$243",
+      "change_dollar_head": "-12",
       "c_kg_range": "526 - 717c",
-      "avg_c_kg": "610c",
-      "change_c_kg": "-30",
-      "clearance": "87%"
+      "avg_c_kg": "603c",
+      "change_c_kg": "-37",
+      "clearance": "85%"
     },
     {
       "stock_category": "Lambs",
@@ -21,13 +21,13 @@
       "offered": "10,508",
       "weight_range": "14 - 56kg",
       "avg_weight": "34kg",
-      "dollar_head_range": "$127 - $237",
-      "avg_dollar_head": "$196",
-      "change_dollar_head": "-13",
+      "dollar_head_range": "$127 - $248",
+      "avg_dollar_head": "$198",
+      "change_dollar_head": "-11",
       "c_kg_range": "459 - 650c",
-      "avg_c_kg": "575c",
+      "avg_c_kg": "576c",
       "change_c_kg": "-6",
-      "clearance": "78%"
+      "clearance": "82%"
     },
     {
       "stock_category": "Lambs",
@@ -35,13 +35,27 @@
       "offered": "1,494",
       "weight_range": "19 - 52kg",
       "avg_weight": "31kg",
-      "dollar_head_range": "$137 - $195",
-      "avg_dollar_head": "$164",
-      "change_dollar_head": "-40",
+      "dollar_head_range": "$137 - $248",
+      "avg_dollar_head": "$176",
+      "change_dollar_head": "-28",
       "c_kg_range": "477 - 607c",
-      "avg_c_kg": "559c",
-      "change_c_kg": "-24",
-      "clearance": "85%"
+      "avg_c_kg": "565c",
+      "change_c_kg": "-19",
+      "clearance": "100%"
+    },
+    {
+      "stock_category": "Lambs",
+      "category": "Merino Mixed Sexes",
+      "offered": "360",
+      "weight_range": "23 - 53kg",
+      "avg_weight": "37kg",
+      "dollar_head_range": "$168 - $168",
+      "avg_dollar_head": "$168",
+      "change_dollar_head": "-",
+      "c_kg_range": "508 - 508c",
+      "avg_c_kg": "508c",
+      "change_c_kg": "-",
+      "clearance": "36%"
     },
     {
       "stock_category": "Lambs",
@@ -161,13 +175,13 @@
       "offered": "1,580",
       "weight_range": "37 - 94kg",
       "avg_weight": "63kg",
-      "dollar_head_range": "$350 - $406",
-      "avg_dollar_head": "$365",
-      "change_dollar_head": "-24",
-      "c_kg_range": "487 - 525c",
-      "avg_c_kg": "517c",
-      "change_c_kg": "-95",
-      "clearance": "45%"
+      "dollar_head_range": "$350 - $440",
+      "avg_dollar_head": "$384",
+      "change_dollar_head": "-5",
+      "c_kg_range": "487 - 789c",
+      "avg_c_kg": "580c",
+      "change_c_kg": "-31",
+      "clearance": "60%"
     },
     {
       "stock_category": "Joined Ewes",
@@ -180,6 +194,20 @@
       "change_dollar_head": "-",
       "c_kg_range": "374 - 374c",
       "avg_c_kg": "374c",
+      "change_c_kg": "-",
+      "clearance": "100%"
+    },
+    {
+      "stock_category": "Joined Ewes",
+      "category": "SIL Shedding Breed Ewes",
+      "offered": "630",
+      "weight_range": "38 - 77kg",
+      "avg_weight": "58kg",
+      "dollar_head_range": "$296 - $296",
+      "avg_dollar_head": "$296",
+      "change_dollar_head": "-",
+      "c_kg_range": "512 - 512c",
+      "avg_c_kg": "512c",
       "change_c_kg": "-",
       "clearance": "100%"
     },
@@ -231,13 +259,13 @@
       "offered": "840",
       "weight_range": "30 - 51kg",
       "avg_weight": "39kg",
-      "dollar_head_range": "$271 - $271",
-      "avg_dollar_head": "$271",
-      "change_dollar_head": "-",
-      "c_kg_range": "684 - 684c",
-      "avg_c_kg": "684c",
-      "change_c_kg": "-",
-      "clearance": "83%"
+      "dollar_head_range": "$205 - $271",
+      "avg_dollar_head": "$260",
+      "change_dollar_head": "24",
+      "c_kg_range": "523 - 684c",
+      "avg_c_kg": "657c",
+      "change_c_kg": "74",
+      "clearance": "100%"
     }
   ]
 }
