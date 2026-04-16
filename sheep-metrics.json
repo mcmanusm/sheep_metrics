@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-04-15T11:33:57.190Z",
+  "updated_at": "2026-04-16T11:37:09.093Z",
   "national": [
     {
       "stock_category": "Lambs",
       "category": "Crossbred Lambs",
-      "offered": "9,319",
+      "offered": "8,258",
       "weight_range": "24 - 64kg",
-      "avg_weight": "40kg",
-      "dollar_head_range": "$177 - $286",
-      "avg_dollar_head": "$259",
-      "change_dollar_head": "17",
-      "c_kg_range": "536 - 729c",
-      "avg_c_kg": "622c",
-      "change_c_kg": "-3",
-      "clearance": "92%"
+      "avg_weight": "41kg",
+      "dollar_head_range": "$203 - $286",
+      "avg_dollar_head": "$264",
+      "change_dollar_head": "22",
+      "c_kg_range": "552 - 729c",
+      "avg_c_kg": "630c",
+      "change_c_kg": "18",
+      "clearance": "94%"
     },
     {
       "stock_category": "Lambs",
