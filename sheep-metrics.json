@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-04-16T11:37:09.093Z",
+  "updated_at": "2026-04-17T11:29:41.876Z",
   "national": [
     {
       "stock_category": "Lambs",
       "category": "Crossbred Lambs",
-      "offered": "8,258",
+      "offered": "10,428",
       "weight_range": "24 - 64kg",
       "avg_weight": "41kg",
-      "dollar_head_range": "$203 - $286",
-      "avg_dollar_head": "$264",
-      "change_dollar_head": "22",
-      "c_kg_range": "552 - 729c",
-      "avg_c_kg": "630c",
-      "change_c_kg": "18",
-      "clearance": "94%"
+      "dollar_head_range": "$145 - $286",
+      "avg_dollar_head": "$253",
+      "change_dollar_head": "11",
+      "c_kg_range": "413 - 729c",
+      "avg_c_kg": "610c",
+      "change_c_kg": "-2",
+      "clearance": "98%"
     },
     {
       "stock_category": "Lambs",
@@ -119,13 +119,13 @@
       "offered": "13,225",
       "weight_range": "35 - 99kg",
       "avg_weight": "58kg",
-      "dollar_head_range": "$242 - $361",
+      "dollar_head_range": "$220 - $361",
       "avg_dollar_head": "$307",
       "change_dollar_head": "-22",
-      "c_kg_range": "435 - 633c",
-      "avg_c_kg": "535c",
-      "change_c_kg": "0",
-      "clearance": "75%"
+      "c_kg_range": "435 - 742c",
+      "avg_c_kg": "541c",
+      "change_c_kg": "6",
+      "clearance": "79%"
     },
     {
       "stock_category": "Joined Ewes",
@@ -158,15 +158,15 @@
     {
       "stock_category": "Joined Ewes",
       "category": "SM First Cross Ewes",
-      "offered": "452",
-      "weight_range": "41 - 78kg",
-      "avg_weight": "58kg",
+      "offered": "664",
+      "weight_range": "34 - 78kg",
+      "avg_weight": "54kg",
       "dollar_head_range": "$250 - $359",
-      "avg_dollar_head": "$291",
-      "change_dollar_head": "39",
+      "avg_dollar_head": "$286",
+      "change_dollar_head": "34",
       "c_kg_range": "408 - 667c",
-      "avg_c_kg": "506c",
-      "change_c_kg": "132",
+      "avg_c_kg": "515c",
+      "change_c_kg": "141",
       "clearance": "100%"
     },
     {
@@ -228,16 +228,16 @@
     {
       "stock_category": "NSM Ewes",
       "category": "Composite/Other Breed Ewes",
-      "offered": "955",
-      "weight_range": "30 - 88kg",
-      "avg_weight": "54kg",
-      "dollar_head_range": "$230 - $364",
-      "avg_dollar_head": "$289",
-      "change_dollar_head": "29",
-      "c_kg_range": "590 - 655c",
-      "avg_c_kg": "615c",
-      "change_c_kg": "-43",
-      "clearance": "83%"
+      "offered": "1,043",
+      "weight_range": "25 - 88kg",
+      "avg_weight": "50kg",
+      "dollar_head_range": "$170 - $364",
+      "avg_dollar_head": "$277",
+      "change_dollar_head": "17",
+      "c_kg_range": "586 - 655c",
+      "avg_c_kg": "612c",
+      "change_c_kg": "-46",
+      "clearance": "84%"
     }
   ]
 }
