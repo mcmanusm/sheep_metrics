@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-04-22T11:37:12.213Z",
+  "updated_at": "2026-04-23T11:38:48.618Z",
   "national": [
     {
       "stock_category": "Lambs",
       "category": "Crossbred Lambs",
-      "offered": "10,483",
+      "offered": "8,313",
       "weight_range": "17 - 60kg",
-      "avg_weight": "36kg",
+      "avg_weight": "35kg",
       "dollar_head_range": "$123 - $266",
-      "avg_dollar_head": "$217",
-      "change_dollar_head": "-39",
+      "avg_dollar_head": "$215",
+      "change_dollar_head": "-38",
       "c_kg_range": "413 - 746c",
-      "avg_c_kg": "600c",
-      "change_c_kg": "-16",
-      "clearance": "96%"
+      "avg_c_kg": "611c",
+      "change_c_kg": "1",
+      "clearance": "94%"
     },
     {
       "stock_category": "Lambs",
@@ -172,16 +172,16 @@
     {
       "stock_category": "Joined Ewes",
       "category": "SM First Cross Ewes",
-      "offered": "1,285",
-      "weight_range": "34 - 87kg",
-      "avg_weight": "61kg",
+      "offered": "1,073",
+      "weight_range": "40 - 87kg",
+      "avg_weight": "64kg",
       "dollar_head_range": "$256 - $472",
-      "avg_dollar_head": "$374",
-      "change_dollar_head": "83",
+      "avg_dollar_head": "$399",
+      "change_dollar_head": "114",
       "c_kg_range": "452 - 701c",
-      "avg_c_kg": "600c",
-      "change_c_kg": "94",
-      "clearance": "81%"
+      "avg_c_kg": "616c",
+      "change_c_kg": "101",
+      "clearance": "77%"
     },
     {
       "stock_category": "Joined Ewes",
