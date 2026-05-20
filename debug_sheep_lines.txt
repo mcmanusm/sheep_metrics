@@ -21,12 +21,12 @@ Crossbred Lambs
 24 - 55kg
 38kg
 $176 - $278
-$242
-9
+$243
+10
 529 - 727c
-634c
-48
-88%
+632c
+47
+91%
 Lambs
 Merino Wether Lambs
 7,016
@@ -45,12 +45,12 @@ Merino Ewe Lambs
 22 - 56kg
 41kg
 $193 - $270
-$229
--27
-585 - 633c
-613c
-16
-70%
+$228
+-29
+546 - 633c
+605c
+8
+90%
 Lambs
 Merino Mixed Sexes
 700

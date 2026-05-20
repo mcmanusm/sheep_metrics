@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T13:40:08.999Z",
+  "updated_at": "2026-05-20T12:41:47.008Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -8,12 +8,12 @@
       "weight_range": "24 - 55kg",
       "avg_weight": "38kg",
       "dollar_head_range": "$176 - $278",
-      "avg_dollar_head": "$242",
-      "change_dollar_head": "9",
+      "avg_dollar_head": "$243",
+      "change_dollar_head": "10",
       "c_kg_range": "529 - 727c",
-      "avg_c_kg": "634c",
-      "change_c_kg": "48",
-      "clearance": "88%"
+      "avg_c_kg": "632c",
+      "change_c_kg": "47",
+      "clearance": "91%"
     },
     {
       "stock_category": "Lambs",
@@ -36,12 +36,12 @@
       "weight_range": "22 - 56kg",
       "avg_weight": "41kg",
       "dollar_head_range": "$193 - $270",
-      "avg_dollar_head": "$229",
-      "change_dollar_head": "-27",
-      "c_kg_range": "585 - 633c",
-      "avg_c_kg": "613c",
-      "change_c_kg": "16",
-      "clearance": "70%"
+      "avg_dollar_head": "$228",
+      "change_dollar_head": "-29",
+      "c_kg_range": "546 - 633c",
+      "avg_c_kg": "605c",
+      "change_c_kg": "8",
+      "clearance": "90%"
     },
     {
       "stock_category": "Lambs",
