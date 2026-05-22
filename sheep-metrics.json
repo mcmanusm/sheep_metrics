@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T12:41:47.008Z",
+  "updated_at": "2026-05-22T12:38:39.388Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -18,16 +18,16 @@
     {
       "stock_category": "Lambs",
       "category": "Merino Wether Lambs",
-      "offered": "7,016",
+      "offered": "7,931",
       "weight_range": "20 - 60kg",
       "avg_weight": "37kg",
-      "dollar_head_range": "$156 - $238",
-      "avg_dollar_head": "$191",
-      "change_dollar_head": "-8",
-      "c_kg_range": "479 - 598c",
-      "avg_c_kg": "549c",
-      "change_c_kg": "46",
-      "clearance": "91%"
+      "dollar_head_range": "$140 - $238",
+      "avg_dollar_head": "$188",
+      "change_dollar_head": "-12",
+      "c_kg_range": "402 - 598c",
+      "avg_c_kg": "539c",
+      "change_c_kg": "36",
+      "clearance": "87%"
     },
     {
       "stock_category": "Lambs",
@@ -79,10 +79,10 @@
       "avg_weight": "36kg",
       "dollar_head_range": "$195 - $262",
       "avg_dollar_head": "$232",
-      "change_dollar_head": "31",
+      "change_dollar_head": "25",
       "c_kg_range": "595 - 673c",
       "avg_c_kg": "629c",
-      "change_c_kg": "121",
+      "change_c_kg": "107",
       "clearance": "84%"
     },
     {
