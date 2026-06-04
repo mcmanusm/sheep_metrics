@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T14:36:05.193Z",
+  "updated_at": "2026-06-04T13:39:19.484Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -23,10 +23,10 @@
       "avg_weight": "37kg",
       "dollar_head_range": "$166 - $274",
       "avg_dollar_head": "$210",
-      "change_dollar_head": "3",
+      "change_dollar_head": "-14",
       "c_kg_range": "511 - 677c",
       "avg_c_kg": "619c",
-      "change_c_kg": "95",
+      "change_c_kg": "62",
       "clearance": "100%"
     },
     {
@@ -106,12 +106,12 @@
       "weight_range": "19 - 87kg",
       "avg_weight": "55kg",
       "dollar_head_range": "$234 - $458",
-      "avg_dollar_head": "$326",
-      "change_dollar_head": "-1",
+      "avg_dollar_head": "$324",
+      "change_dollar_head": "-2",
       "c_kg_range": "448 - 795c",
-      "avg_c_kg": "611c",
-      "change_c_kg": "53",
-      "clearance": "95%"
+      "avg_c_kg": "609c",
+      "change_c_kg": "51",
+      "clearance": "100%"
     },
     {
       "stock_category": "Joined Ewes",
