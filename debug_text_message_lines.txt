@@ -2,60 +2,54 @@
 1: Show screen reader tips
 2: Skip to main content
 3: Power BI Report
-4: Tuesday Sheep National Averages - 28 April 2026
+4: Tuesday Sheep National Averages - 09 June 2026
 5: Category (CC) Sheep
 6: Text Message Template $/Head (Sheep)
 7: Text Message Template c/kg (Sheep)
 8: Crossbred Lambs
-9: X-bred Lmb $223
-10: X-bred Lmb 591c
+9: X-bred Lmb $265
+10: X-bred Lmb 644c
 11: Merino Wether Lambs
-12: Mer Wth Lmb $185
-13: Mer Wth Lmb 503c
+12: Mer Wth Lmb $222
+13: Mer Wth Lmb 581c
 14: Merino Ewe Lambs
-15: Mer Ewe Lmb $212
-16: Mer Ewe Lmb 591c
+15: Mer Ewe Lmb $277
+16: Mer Ewe Lmb 623c
 17: Merino Mixed Sexes
-18: Other $154
-19: Other 456c
+18: Other $176
+19: Other 471c
 20: First Cross Ewe Lambs
-21: 1st X Ewe Lmb $302
-22: 1st X Ewe Lmb 566c
+21: 1st X Ewe Lmb $375
+22: 1st X Ewe Lmb 777c
 23: Shedding Breed Lambs
-24: Shedding Lmb $197
-25: Shedding Lmb 548c
+24: Shedding Lmb $245
+25: Shedding Lmb 633c
 26: SIL Merino Ewes
-27: Joined Mer Ewes $309
-28: Joined Mer Ewes 499c
+27: Joined Mer Ewes $328
+28: Joined Mer Ewes 639c
 29: SM Merino Ewes
-30: Joined Mer Ewes $260
-31: Joined Mer Ewes 384c
+30: Joined Mer Ewes $271
+31: Joined Mer Ewes 554c
 32: SIL First Cross Ewes
-33: Joined 1st X Ewes $369
-34: Joined 1st X Ewes 511c
+33: Joined 1st X Ewes $355
+34: Joined 1st X Ewes 694c
 35: SM First Cross Ewes
-36: Joined 1st X Ewes $250
-37: Joined 1st X Ewes 363c
+36: Joined 1st X Ewes $488
+37: Joined 1st X Ewes 855c
 38: SIL Composite/Other Breed Ewes
-39: Other $392
-40: Other 546c
+39: Other $427
+40: Other 705c
 41: Merino Ewe Hoggets
-42: Mer Ewe Hgt $236
-43: Mer Ewe Hgt 455c
-44: Merino Ewes
-45: Mer Ewe $222
-46: Mer Ewe 407c
-47: First Cross Ewes
-48: 1st X Ewes $273
-49: 1st X Ewes 561c
-50: Shedding Breed Ewes
-51: Shedding Ewes $272
-52: Shedding Ewes 620c
-53: -
-54: +
-55: 94%
-56: Microsoft Power BI
-57: 2of2
-58: Sheep Text
-59: Text Message Template
-60: Report Zoomed To 94%
+42: Mer Ewe Hgt $222
+43: Mer Ewe Hgt 477c
+44: Shedding Breed Ewes
+45: Shedding Ewes $237
+46: Shedding Ewes 597c
+47: -
+48: +
+49: 94%
+50: Microsoft Power BI
+51: 2of2
+52: Sheep Text
+53: Text Message Template
+54: Report Zoomed To 94%
