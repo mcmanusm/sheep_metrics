@@ -173,15 +173,27 @@ $317
 34%
 Joined Ewes
 SIL Composite/Other Breed Ewes
-2,264
-39 - 89kg
-61kg
+640
+45 - 86kg
+65kg
 $306 - $482
-$427
-11
-458 - 950c
-705c
-1
+$432
+10
+482 - 785c
+678c
+-33
+100%
+Joined Ewes
+SM Composite/Other Breed Ewes
+143
+53 - 83kg
+67kg
+$335 - $335
+$335
+-
+503 - 503c
+503c
+-
 100%
 NSM Ewes
 Merino Ewe Hoggets
