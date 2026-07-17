@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T06:24:05.443Z",
+  "updated_at": "2026-07-17T11:51:24.227Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -22,12 +22,12 @@
       "weight_range": "24 - 61kg",
       "avg_weight": "35kg",
       "dollar_head_range": "$185 - $240",
-      "avg_dollar_head": "$201",
-      "change_dollar_head": "-39",
+      "avg_dollar_head": "$199",
+      "change_dollar_head": "-41",
       "c_kg_range": "487 - 688c",
-      "avg_c_kg": "587c",
-      "change_c_kg": "27",
-      "clearance": "85%"
+      "avg_c_kg": "585c",
+      "change_c_kg": "25",
+      "clearance": "99%"
     },
     {
       "stock_category": "Lambs",
@@ -116,16 +116,16 @@
     {
       "stock_category": "Joined Ewes",
       "category": "SIL Merino Ewes",
-      "offered": "7,200",
+      "offered": "6,960",
       "weight_range": "34 - 88kg",
-      "avg_weight": "55kg",
+      "avg_weight": "56kg",
       "dollar_head_range": "$282 - $423",
       "avg_dollar_head": "$345",
       "change_dollar_head": "-20",
       "c_kg_range": "501 - 718c",
       "avg_c_kg": "632c",
       "change_c_kg": "-43",
-      "clearance": "72%"
+      "clearance": "75%"
     },
     {
       "stock_category": "Joined Ewes",
@@ -144,16 +144,16 @@
     {
       "stock_category": "Joined Ewes",
       "category": "SIL First Cross Ewes",
-      "offered": "924",
-      "weight_range": "32 - 91kg",
-      "avg_weight": "58kg",
-      "dollar_head_range": "$286 - $505",
-      "avg_dollar_head": "$358",
-      "change_dollar_head": "-93",
-      "c_kg_range": "513 - 993c",
-      "avg_c_kg": "630c",
-      "change_c_kg": "24",
-      "clearance": "60%"
+      "offered": "465",
+      "weight_range": "45 - 82kg",
+      "avg_weight": "62kg",
+      "dollar_head_range": "$414 - $505",
+      "avg_dollar_head": "$478",
+      "change_dollar_head": "85",
+      "c_kg_range": "642 - 763c",
+      "avg_c_kg": "727c",
+      "change_c_kg": "119",
+      "clearance": "22%"
     },
     {
       "stock_category": "Joined Ewes",
@@ -172,16 +172,16 @@
     {
       "stock_category": "Joined Ewes",
       "category": "SIL Composite/Other Breed Ewes",
-      "offered": "2,749",
+      "offered": "2,089",
       "weight_range": "35 - 97kg",
-      "avg_weight": "56kg",
+      "avg_weight": "59kg",
       "dollar_head_range": "$334 - $520",
-      "avg_dollar_head": "$396",
-      "change_dollar_head": "-49",
+      "avg_dollar_head": "$389",
+      "change_dollar_head": "-45",
       "c_kg_range": "508 - 873c",
-      "avg_c_kg": "692c",
-      "change_c_kg": "-60",
-      "clearance": "91%"
+      "avg_c_kg": "648c",
+      "change_c_kg": "-127",
+      "clearance": "89%"
     },
     {
       "stock_category": "Joined Ewes",
