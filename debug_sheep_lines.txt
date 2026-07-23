@@ -130,10 +130,10 @@ SIL First Cross Ewes
 58kg
 $329 - $409
 $362
-4
+-116
 539 - 690c
 601c
--29
+-125
 32%
 Joined Ewes
 SIL Composite/Other Breed Ewes
@@ -142,10 +142,10 @@ SIL Composite/Other Breed Ewes
 51kg
 $302 - $450
 $395
--1
+6
 642 - 1,042c
 824c
-133
+176
 50%
 NSM Ewes
 Merino Ewe Hoggets
