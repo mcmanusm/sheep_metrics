@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-07-23T12:09:39.538Z",
+  "updated_at": "2026-07-24T12:00:16.932Z",
   "national": [
     {
       "stock_category": "Lambs",
       "category": "Crossbred Lambs",
-      "offered": "10,562",
-      "weight_range": "22 - 62kg",
-      "avg_weight": "34kg",
+      "offered": "10,937",
+      "weight_range": "22 - 69kg",
+      "avg_weight": "35kg",
       "dollar_head_range": "$219 - $298",
       "avg_dollar_head": "$245",
       "change_dollar_head": "-13",
       "c_kg_range": "585 - 846c",
       "avg_c_kg": "724c",
       "change_c_kg": "-18",
-      "clearance": "86%"
+      "clearance": "83%"
     },
     {
       "stock_category": "Lambs",
@@ -37,10 +37,10 @@
       "avg_weight": "42kg",
       "dollar_head_range": "$231 - $416",
       "avg_dollar_head": "$283",
-      "change_dollar_head": "-17",
+      "change_dollar_head": "-18",
       "c_kg_range": "554 - 885c",
       "avg_c_kg": "718c",
-      "change_c_kg": "-26",
+      "change_c_kg": "-21",
       "clearance": "79%"
     },
     {
@@ -105,13 +105,13 @@
       "offered": "5,282",
       "weight_range": "33 - 83kg",
       "avg_weight": "56kg",
-      "dollar_head_range": "$285 - $463",
-      "avg_dollar_head": "$367",
-      "change_dollar_head": "11",
-      "c_kg_range": "547 - 787c",
-      "avg_c_kg": "668c",
-      "change_c_kg": "25",
-      "clearance": "80%"
+      "dollar_head_range": "$280 - $463",
+      "avg_dollar_head": "$359",
+      "change_dollar_head": "3",
+      "c_kg_range": "509 - 787c",
+      "avg_c_kg": "656c",
+      "change_c_kg": "13",
+      "clearance": "88%"
     },
     {
       "stock_category": "Joined Ewes",
@@ -144,15 +144,15 @@
     {
       "stock_category": "Joined Ewes",
       "category": "SIL Composite/Other Breed Ewes",
-      "offered": "2,609",
+      "offered": "3,149",
       "weight_range": "30 - 92kg",
-      "avg_weight": "51kg",
-      "dollar_head_range": "$302 - $450",
-      "avg_dollar_head": "$395",
-      "change_dollar_head": "6",
-      "c_kg_range": "642 - 1,042c",
-      "avg_c_kg": "824c",
-      "change_c_kg": "176",
+      "avg_weight": "52kg",
+      "dollar_head_range": "$270 - $450",
+      "avg_dollar_head": "$374",
+      "change_dollar_head": "-15",
+      "c_kg_range": "446 - 1,042c",
+      "avg_c_kg": "759c",
+      "change_c_kg": "111",
       "clearance": "50%"
     },
     {
