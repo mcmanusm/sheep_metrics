@@ -17,8 +17,8 @@ Change
 Clearance
 Lambs
 Crossbred Lambs
-12,806
-17 - 69kg
+12,431
+17 - 67kg
 33kg
 $177 - $280
 $230
@@ -26,7 +26,7 @@ $230
 613 - 829c
 704c
 -17
-62%
+64%
 Lambs
 Merino Wether Lambs
 7,737
@@ -161,16 +161,16 @@ $311
 100%
 Joined Ewes
 SIL Composite/Other Breed Ewes
-4,441
+3,901
 32 - 100kg
-58kg
-$270 - $470
-$412
-17
+57kg
+$300 - $470
+$429
+55
 423 - 1,042c
-697c
--127
-58%
+727c
+-32
+59%
 Joined Ewes
 SM Composite/Other Breed Ewes
 271
