@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T12:11:55.655Z",
+  "updated_at": "2026-07-31T12:26:27.523Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -7,13 +7,13 @@
       "offered": "12,431",
       "weight_range": "17 - 67kg",
       "avg_weight": "33kg",
-      "dollar_head_range": "$177 - $280",
+      "dollar_head_range": "$151 - $280",
       "avg_dollar_head": "$230",
       "change_dollar_head": "-13",
       "c_kg_range": "613 - 829c",
-      "avg_c_kg": "704c",
-      "change_c_kg": "-17",
-      "clearance": "64%"
+      "avg_c_kg": "703c",
+      "change_c_kg": "-18",
+      "clearance": "73%"
     },
     {
       "stock_category": "Lambs",
@@ -21,13 +21,13 @@
       "offered": "7,737",
       "weight_range": "19 - 64kg",
       "avg_weight": "35kg",
-      "dollar_head_range": "$150 - $190",
-      "avg_dollar_head": "$171",
-      "change_dollar_head": "-45",
+      "dollar_head_range": "$150 - $240",
+      "avg_dollar_head": "$179",
+      "change_dollar_head": "-37",
       "c_kg_range": "460 - 710c",
-      "avg_c_kg": "554c",
-      "change_c_kg": "-38",
-      "clearance": "51%"
+      "avg_c_kg": "552c",
+      "change_c_kg": "-40",
+      "clearance": "57%"
     },
     {
       "stock_category": "Lambs",
@@ -35,13 +35,13 @@
       "offered": "2,802",
       "weight_range": "19 - 62kg",
       "avg_weight": "42kg",
-      "dollar_head_range": "$220 - $340",
-      "avg_dollar_head": "$266",
-      "change_dollar_head": "-17",
-      "c_kg_range": "611 - 740c",
-      "avg_c_kg": "683c",
-      "change_c_kg": "-35",
-      "clearance": "91%"
+      "dollar_head_range": "$195 - $340",
+      "avg_dollar_head": "$264",
+      "change_dollar_head": "-20",
+      "c_kg_range": "530 - 740c",
+      "avg_c_kg": "672c",
+      "change_c_kg": "-46",
+      "clearance": "100%"
     },
     {
       "stock_category": "Lambs",
@@ -79,11 +79,11 @@
       "avg_weight": "37kg",
       "dollar_head_range": "$228 - $254",
       "avg_dollar_head": "$240",
-      "change_dollar_head": "13",
+      "change_dollar_head": "12",
       "c_kg_range": "577 - 742c",
-      "avg_c_kg": "628c",
-      "change_c_kg": "-19",
-      "clearance": "78%"
+      "avg_c_kg": "626c",
+      "change_c_kg": "-22",
+      "clearance": "83%"
     },
     {
       "stock_category": "Lambs",
@@ -119,13 +119,13 @@
       "offered": "7,918",
       "weight_range": "29 - 90kg",
       "avg_weight": "58kg",
-      "dollar_head_range": "$169 - $420",
-      "avg_dollar_head": "$305",
-      "change_dollar_head": "-54",
-      "c_kg_range": "314 - 716c",
-      "avg_c_kg": "538c",
-      "change_c_kg": "-118",
-      "clearance": "51%"
+      "dollar_head_range": "$248 - $420",
+      "avg_dollar_head": "$316",
+      "change_dollar_head": "-43",
+      "c_kg_range": "460 - 716c",
+      "avg_c_kg": "561c",
+      "change_c_kg": "-95",
+      "clearance": "86%"
     },
     {
       "stock_category": "Joined Ewes",
@@ -176,12 +176,12 @@
       "weight_range": "32 - 100kg",
       "avg_weight": "57kg",
       "dollar_head_range": "$300 - $470",
-      "avg_dollar_head": "$429",
-      "change_dollar_head": "55",
+      "avg_dollar_head": "$414",
+      "change_dollar_head": "41",
       "c_kg_range": "423 - 1,042c",
-      "avg_c_kg": "727c",
-      "change_c_kg": "-32",
-      "clearance": "59%"
+      "avg_c_kg": "722c",
+      "change_c_kg": "-37",
+      "clearance": "72%"
     },
     {
       "stock_category": "Joined Ewes",
@@ -231,13 +231,13 @@
       "offered": "3,421",
       "weight_range": "34 - 77kg",
       "avg_weight": "55kg",
-      "dollar_head_range": "$169 - $288",
-      "avg_dollar_head": "$226",
-      "change_dollar_head": "-26",
-      "c_kg_range": "347 - 487c",
-      "avg_c_kg": "444c",
-      "change_c_kg": "-72",
-      "clearance": "39%"
+      "dollar_head_range": "$179 - $288",
+      "avg_dollar_head": "$211",
+      "change_dollar_head": "-41",
+      "c_kg_range": "359 - 487c",
+      "avg_c_kg": "409c",
+      "change_c_kg": "-108",
+      "clearance": "100%"
     },
     {
       "stock_category": "NSM Ewes",
@@ -245,13 +245,13 @@
       "offered": "3,947",
       "weight_range": "26 - 89kg",
       "avg_weight": "51kg",
-      "dollar_head_range": "$260 - $300",
-      "avg_dollar_head": "$281",
-      "change_dollar_head": "-37",
-      "c_kg_range": "549 - 756c",
-      "avg_c_kg": "614c",
-      "change_c_kg": "-48",
-      "clearance": "40%"
+      "dollar_head_range": "$187 - $300",
+      "avg_dollar_head": "$262",
+      "change_dollar_head": "-56",
+      "c_kg_range": "443 - 756c",
+      "avg_c_kg": "586c",
+      "change_c_kg": "-75",
+      "clearance": "51%"
     },
     {
       "stock_category": "NSM Ewes",
