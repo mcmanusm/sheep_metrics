@@ -69,12 +69,12 @@ First Cross Ewe Lambs
 24 - 77kg
 47kg
 $232 - $422
-$354
-43
+$352
+42
 615 - 909c
-760c
--103
-91%
+759c
+-104
+94%
 Lambs
 Shedding Breed Lambs
 3,658
@@ -161,16 +161,16 @@ $279
 75%
 Joined Ewes
 SIL First Cross Ewes
-2,168
-41 - 85kg
-58kg
-$375 - $415
-$402
-132
-557 - 712c
-642c
-212
-32%
+1,608
+41 - 71kg
+56kg
+$390 - $390
+$390
+-
+659 - 659c
+659c
+-
+8%
 Joined Ewes
 SIL Shedding Breed Ewes
 1,390
@@ -197,16 +197,16 @@ $290
 100%
 Joined Ewes
 SIL Composite/Other Breed Ewes
-542
+797
 36 - 71kg
-55kg
-$328 - $330
-$328
--73
-529 - 630c
-550c
--148
-73%
+53kg
+$328 - $425
+$345
+-69
+529 - 840c
+621c
+-101
+82%
 NSM Ewes
 Merino Ewe Hoggets
 5,517
