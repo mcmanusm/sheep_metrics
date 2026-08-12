@@ -20,13 +20,13 @@ Crossbred Lambs
 23,749
 17 - 67kg
 37kg
-$152 - $252
-$223
--11
-469 - 721c
-644c
--55
-56%
+$152 - $260
+$230
+-5
+446 - 721c
+620c
+-78
+85%
 Lambs
 Merino Wether Lambs
 6,130
@@ -44,13 +44,25 @@ Merino Ewe Lambs
 1,435
 26 - 65kg
 46kg
-$336 - $350
-$345
-79
-660 - 690c
-672c
-27
-52%
+$335 - $350
+$343
+77
+654 - 690c
+668c
+24
+63%
+Lambs
+Merino Mixed Sexes
+372
+20 - 46kg
+31kg
+$134 - $134
+$134
+-
+511 - 511c
+511c
+-
+27%
 Lambs
 First Cross Ewe Lambs
 1,252
@@ -104,13 +116,13 @@ SIL Merino Ewes
 4,477
 31 - 89kg
 56kg
-$291 - $387
-$329
-11
-447 - 703c
-581c
-15
-56%
+$130 - $387
+$309
+-8
+302 - 703c
+543c
+-24
+70%
 Joined Ewes
 SM Merino Ewes
 337
@@ -124,6 +136,18 @@ $204
 -
 46%
 Joined Ewes
+SIL First Cross Ewes
+522
+42 - 113kg
+61kg
+$347 - $347
+$347
+-
+670 - 670c
+670c
+-
+38%
+Joined Ewes
 SIL Shedding Breed Ewes
 1,459
 36 - 87kg
@@ -132,9 +156,9 @@ $330 - $375
 $359
 12
 579 - 711c
-610c
-56
-77%
+625c
+71
+96%
 Joined Ewes
 SIL Composite/Other Breed Ewes
 255
@@ -176,25 +200,49 @@ Merino Ewes
 1,783
 33 - 84kg
 59kg
-$260 - $296
-$283
-53
-398 - 474c
-436c
-42
-30%
+$260 - $300
+$284
+54
+398 - 534c
+481c
+87
+70%
+NSM Ewes
+First Cross Ewes
+789
+44 - 95kg
+63kg
+$300 - $300
+$300
+-
+409 - 409c
+409c
+-
+18%
 NSM Ewes
 Shedding Breed Ewes
 862
 17 - 83kg
 46kg
-$181 - $181
-$181
+$181 - $275
+$238
+-22
+549 - 739c
+624c
+3
+50%
+NSM Ewes
+Composite/Other Breed Ewes
+428
+34 - 72kg
+53kg
+$318 - $318
+$318
 -
-739 - 739c
-739c
+605 - 605c
+605c
 -
-20%
+52%
 -
 +
 94%
