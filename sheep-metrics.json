@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T11:21:09.715Z",
+  "updated_at": "2026-08-13T11:21:11.866Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -168,20 +168,6 @@
       "avg_c_kg": "625c",
       "change_c_kg": "71",
       "clearance": "96%"
-    },
-    {
-      "stock_category": "Joined Ewes",
-      "category": "SIL Composite/Other Breed Ewes",
-      "offered": "255",
-      "weight_range": "42 - 66kg",
-      "avg_weight": "51kg",
-      "dollar_head_range": "$335 - $425",
-      "avg_dollar_head": "$371",
-      "change_dollar_head": "43",
-      "c_kg_range": "662 - 840c",
-      "avg_c_kg": "733c",
-      "change_c_kg": "184",
-      "clearance": "100%"
     },
     {
       "stock_category": "Joined Ewes",
