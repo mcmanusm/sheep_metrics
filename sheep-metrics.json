@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T11:21:11.866Z",
+  "updated_at": "2026-08-15T10:47:41.389Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -217,13 +217,13 @@
       "offered": "789",
       "weight_range": "44 - 95kg",
       "avg_weight": "63kg",
-      "dollar_head_range": "$300 - $300",
-      "avg_dollar_head": "$300",
-      "change_dollar_head": "-",
-      "c_kg_range": "409 - 409c",
-      "avg_c_kg": "409c",
-      "change_c_kg": "-",
-      "clearance": "18%"
+      "dollar_head_range": "$274 - $300",
+      "avg_dollar_head": "$286",
+      "change_dollar_head": "33",
+      "c_kg_range": "380 - 409c",
+      "avg_c_kg": "393c",
+      "change_c_kg": "-237",
+      "clearance": "38%"
     },
     {
       "stock_category": "NSM Ewes",
