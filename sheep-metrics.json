@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T10:56:58.784Z",
+  "updated_at": "2026-08-21T10:57:00.723Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -13,7 +13,7 @@
       "c_kg_range": "528 - 730c",
       "avg_c_kg": "647c",
       "change_c_kg": "27",
-      "clearance": "83%"
+      "clearance": "84%"
     },
     {
       "stock_category": "Lambs",
@@ -22,12 +22,12 @@
       "weight_range": "15 - 63kg",
       "avg_weight": "36kg",
       "dollar_head_range": "$162 - $262",
-      "avg_dollar_head": "$196",
-      "change_dollar_head": "-22",
-      "c_kg_range": "501 - 790c",
-      "avg_c_kg": "603c",
-      "change_c_kg": "45",
-      "clearance": "62%"
+      "avg_dollar_head": "$199",
+      "change_dollar_head": "-19",
+      "c_kg_range": "498 - 790c",
+      "avg_c_kg": "595c",
+      "change_c_kg": "37",
+      "clearance": "70%"
     },
     {
       "stock_category": "Lambs",
@@ -84,6 +84,20 @@
       "avg_c_kg": "582c",
       "change_c_kg": "-8",
       "clearance": "79%"
+    },
+    {
+      "stock_category": "Sheep",
+      "category": "Merino Ewes & Lambs",
+      "offered": "195",
+      "weight_range": "53 - 79kg",
+      "avg_weight": "65kg",
+      "dollar_head_range": "$450 - $450",
+      "avg_dollar_head": "$450",
+      "change_dollar_head": "-",
+      "c_kg_range": "696 - 696c",
+      "avg_c_kg": "696c",
+      "change_c_kg": "-",
+      "clearance": "100%"
     },
     {
       "stock_category": "Sheep",
