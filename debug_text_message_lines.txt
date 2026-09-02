@@ -2,57 +2,45 @@
 1: Show screen reader tips
 2: Skip to main content
 3: Power BI Report
-4: Tuesday Sheep National Averages - 25 August 2026
+4: Tuesday Sheep National Averages - 01 September 2026
 5: Category (CC) Sheep
 6: Text Message Template $/Head (Sheep)
 7: Text Message Template c/kg (Sheep)
 8: Crossbred Lambs
-9: X-bred Lmb $231
-10: X-bred Lmb 634c
+9: X-bred Lmb $238
+10: X-bred Lmb 647c
 11: Merino Wether Lambs
-12: Mer Wth Lmb $196
-13: Mer Wth Lmb 513c
+12: Mer Wth Lmb $204
+13: Mer Wth Lmb 603c
 14: Merino Ewe Lambs
-15: Mer Ewe Lmb $304
-16: Mer Ewe Lmb 710c
-17: Merino Mixed Sexes
-18: Other $168
-19: Other 661c
-20: First Cross Ewe Lambs
-21: 1st X Ewe Lmb $380
-22: 1st X Ewe Lmb 812c
-23: Shedding Breed Lambs
-24: Shedding Lmb $213
-25: Shedding Lmb 616c
-26: SIL Merino Ewes
-27: Joined Mer Ewes $221
-28: Joined Mer Ewes 399c
-29: SM Merino Ewes
-30: Joined Mer Ewes $247
-31: Joined Mer Ewes 400c
-32: SIL First Cross Ewes
-33: Joined 1st X Ewes $437
-34: Joined 1st X Ewes 732c
-35: SIL Composite/Other Breed Ewes
-36: Other $398
-37: Other 793c
-38: Merino Ewe Hoggets
-39: Mer Ewe Hgt $289
-40: Mer Ewe Hgt 601c
-41: Merino Ewes
-42: Mer Ewe $217
-43: Mer Ewe 385c
-44: First Cross Ewes
-45: 1st X Ewes $292
-46: 1st X Ewes 429c
-47: Shedding Breed Ewes
-48: Shedding Ewes $298
-49: Shedding Ewes 590c
-50: -
-51: +
-52: 94%
-53: Microsoft Power BI
-54: 2of2
-55: Sheep Text
-56: Text Message Template
-57: Report Zoomed To 94%
+15: Mer Ewe Lmb $311
+16: Mer Ewe Lmb 646c
+17: First Cross Ewe Lambs
+18: 1st X Ewe Lmb $325
+19: 1st X Ewe Lmb 714c
+20: Shedding Breed Lambs
+21: Shedding Lmb $210
+22: Shedding Lmb 636c
+23: SIL Merino Ewes
+24: Joined Mer Ewes $323
+25: Joined Mer Ewes 608c
+26: SM First Cross Ewes
+27: Joined 1st X Ewes $354
+28: Joined 1st X Ewes 659c
+29: SIL Composite/Other Breed Ewes
+30: Other $413
+31: Other 805c
+32: Merino Ewe Hoggets
+33: Mer Ewe Hgt $329
+34: Mer Ewe Hgt 636c
+35: Merino Ewes
+36: Mer Ewe $260
+37: Mer Ewe 497c
+38: -
+39: +
+40: 94%
+41: Microsoft Power BI
+42: 2of2
+43: Sheep Text
+44: Text Message Template
+45: Report Zoomed To 94%
