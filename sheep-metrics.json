@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T14:33:51.011Z",
+  "updated_at": "2026-09-12T13:41:26.433Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -7,13 +7,13 @@
       "offered": "21,059",
       "weight_range": "21 - 66kg",
       "avg_weight": "37kg",
-      "dollar_head_range": "$195 - $265",
-      "avg_dollar_head": "$237",
-      "change_dollar_head": "-1",
-      "c_kg_range": "554 - 772c",
-      "avg_c_kg": "631c",
-      "change_c_kg": "-17",
-      "clearance": "93%"
+      "dollar_head_range": "$195 - $2,050",
+      "avg_dollar_head": "$250",
+      "change_dollar_head": "12",
+      "c_kg_range": "554 - 6,366c",
+      "avg_c_kg": "672c",
+      "change_c_kg": "24",
+      "clearance": "94%"
     },
     {
       "stock_category": "Lambs",
@@ -22,26 +22,26 @@
       "weight_range": "18 - 56kg",
       "avg_weight": "35kg",
       "dollar_head_range": "$145 - $242",
-      "avg_dollar_head": "$200",
-      "change_dollar_head": "-3",
+      "avg_dollar_head": "$199",
+      "change_dollar_head": "-4",
       "c_kg_range": "438 - 678c",
       "avg_c_kg": "572c",
-      "change_c_kg": "-26",
-      "clearance": "89%"
+      "change_c_kg": "-27",
+      "clearance": "93%"
     },
     {
       "stock_category": "Lambs",
       "category": "Merino Ewe Lambs",
-      "offered": "2,392",
+      "offered": "2,492",
       "weight_range": "18 - 70kg",
       "avg_weight": "40kg",
-      "dollar_head_range": "$178 - $346",
-      "avg_dollar_head": "$281",
-      "change_dollar_head": "-27",
-      "c_kg_range": "628 - 791c",
-      "avg_c_kg": "726c",
-      "change_c_kg": "83",
-      "clearance": "90%"
+      "dollar_head_range": "$150 - $346",
+      "avg_dollar_head": "$275",
+      "change_dollar_head": "-32",
+      "c_kg_range": "404 - 791c",
+      "avg_c_kg": "712c",
+      "change_c_kg": "68",
+      "clearance": "91%"
     },
     {
       "stock_category": "Lambs",
@@ -233,10 +233,10 @@
       "avg_weight": "55kg",
       "dollar_head_range": "$300 - $450",
       "avg_dollar_head": "$394",
-      "change_dollar_head": "-",
+      "change_dollar_head": "154",
       "c_kg_range": "523 - 814c",
       "avg_c_kg": "716c",
-      "change_c_kg": "-",
+      "change_c_kg": "356",
       "clearance": "100%"
     },
     {
