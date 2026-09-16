@@ -2,45 +2,54 @@
 1: Show screen reader tips
 2: Skip to main content
 3: Power BI Report
-4: Tuesday Sheep National Averages - 01 September 2026
+4: Tuesday Sheep National Averages - 15 September 2026
 5: Category (CC) Sheep
 6: Text Message Template $/Head (Sheep)
 7: Text Message Template c/kg (Sheep)
 8: Crossbred Lambs
-9: X-bred Lmb $238
-10: X-bred Lmb 647c
+9: X-bred Lmb $234
+10: X-bred Lmb 629c
 11: Merino Wether Lambs
-12: Mer Wth Lmb $204
-13: Mer Wth Lmb 603c
+12: Mer Wth Lmb $212
+13: Mer Wth Lmb 560c
 14: Merino Ewe Lambs
-15: Mer Ewe Lmb $311
-16: Mer Ewe Lmb 646c
-17: First Cross Ewe Lambs
-18: 1st X Ewe Lmb $325
-19: 1st X Ewe Lmb 714c
-20: Shedding Breed Lambs
-21: Shedding Lmb $210
-22: Shedding Lmb 636c
-23: SIL Merino Ewes
-24: Joined Mer Ewes $323
-25: Joined Mer Ewes 608c
-26: SM First Cross Ewes
-27: Joined 1st X Ewes $354
-28: Joined 1st X Ewes 659c
-29: SIL Composite/Other Breed Ewes
-30: Other $413
-31: Other 805c
-32: Merino Ewe Hoggets
-33: Mer Ewe Hgt $329
-34: Mer Ewe Hgt 636c
-35: Merino Ewes
-36: Mer Ewe $260
-37: Mer Ewe 497c
-38: -
-39: +
-40: 94%
-41: Microsoft Power BI
-42: 2of2
-43: Sheep Text
-44: Text Message Template
-45: Report Zoomed To 94%
+15: Mer Ewe Lmb $295
+16: Mer Ewe Lmb 665c
+17: Merino Mixed Sexes
+18: Other $155
+19: Other 833c
+20: First Cross Ewe Lambs
+21: 1st X Ewe Lmb $380
+22: 1st X Ewe Lmb 855c
+23: Shedding Breed Lambs
+24: Shedding Lmb $213
+25: Shedding Lmb 588c
+26: SIL Merino Ewes
+27: Joined Mer Ewes $358
+28: Joined Mer Ewes 548c
+29: SM Merino Ewes
+30: Joined Mer Ewes $306
+31: Joined Mer Ewes 569c
+32: SIL First Cross Ewes
+33: Joined 1st X Ewes $425
+34: Joined 1st X Ewes 521c
+35: Merino Ewe Hoggets
+36: Mer Ewe Hgt $346
+37: Mer Ewe Hgt 695c
+38: Merino Ewes
+39: Mer Ewe $295
+40: Mer Ewe 447c
+41: First Cross Ewes
+42: 1st X Ewes $443
+43: 1st X Ewes 790c
+44: Shedding Breed Ewes
+45: Shedding Ewes $308
+46: Shedding Ewes 668c
+47: -
+48: +
+49: 94%
+50: Microsoft Power BI
+51: 2of2
+52: Sheep Text
+53: Text Message Template
+54: Report Zoomed To 94%
