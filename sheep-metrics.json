@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T15:07:58.678Z",
+  "updated_at": "2026-09-17T15:10:37.687Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -32,16 +32,16 @@
     {
       "stock_category": "Lambs",
       "category": "Merino Ewe Lambs",
-      "offered": "1,349",
+      "offered": "1,249",
       "weight_range": "20 - 64kg",
-      "avg_weight": "40kg",
-      "dollar_head_range": "$150 - $339",
-      "avg_dollar_head": "$295",
-      "change_dollar_head": "14",
-      "c_kg_range": "404 - 797c",
-      "avg_c_kg": "665c",
-      "change_c_kg": "-61",
-      "clearance": "92%"
+      "avg_weight": "41kg",
+      "dollar_head_range": "$171 - $339",
+      "avg_dollar_head": "$308",
+      "change_dollar_head": "33",
+      "c_kg_range": "574 - 797c",
+      "avg_c_kg": "688c",
+      "change_c_kg": "-23",
+      "clearance": "91%"
     },
     {
       "stock_category": "Lambs",
