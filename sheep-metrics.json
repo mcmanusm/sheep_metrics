@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T15:08:41.540Z",
+  "updated_at": "2026-09-24T15:22:36.374Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -37,10 +37,10 @@
       "avg_weight": "44kg",
       "dollar_head_range": "$265 - $320",
       "avg_dollar_head": "$281",
-      "change_dollar_head": "-14",
+      "change_dollar_head": "-27",
       "c_kg_range": "551 - 801c",
       "avg_c_kg": "729c",
-      "change_c_kg": "64",
+      "change_c_kg": "41",
       "clearance": "62%"
     },
     {
@@ -200,15 +200,15 @@
     {
       "stock_category": "NSM Ewes",
       "category": "Merino Ewe Hoggets",
-      "offered": "10,833",
-      "weight_range": "30 - 77kg",
-      "avg_weight": "51kg",
+      "offered": "10,468",
+      "weight_range": "33 - 77kg",
+      "avg_weight": "52kg",
       "dollar_head_range": "$170 - $414",
-      "avg_dollar_head": "$335",
-      "change_dollar_head": "-13",
+      "avg_dollar_head": "$340",
+      "change_dollar_head": "2",
       "c_kg_range": "406 - 753c",
-      "avg_c_kg": "646c",
-      "change_c_kg": "-42",
+      "avg_c_kg": "652c",
+      "change_c_kg": "-26",
       "clearance": "86%"
     },
     {
