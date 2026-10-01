@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T16:31:03.100Z",
+  "updated_at": "2026-10-01T17:05:37.835Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -18,16 +18,16 @@
     {
       "stock_category": "Lambs",
       "category": "Merino Wether Lambs",
-      "offered": "27,051",
+      "offered": "25,889",
       "weight_range": "13 - 58kg",
       "avg_weight": "38kg",
-      "dollar_head_range": "$134 - $247",
-      "avg_dollar_head": "$197",
-      "change_dollar_head": "-15",
-      "c_kg_range": "343 - 598c",
-      "avg_c_kg": "498c",
-      "change_c_kg": "-55",
-      "clearance": "60%"
+      "dollar_head_range": "$143 - $247",
+      "avg_dollar_head": "$200",
+      "change_dollar_head": "-10",
+      "c_kg_range": "349 - 598c",
+      "avg_c_kg": "508c",
+      "change_c_kg": "-38",
+      "clearance": "59%"
     },
     {
       "stock_category": "Lambs",
@@ -88,16 +88,16 @@
     {
       "stock_category": "Sheep",
       "category": "Ewes & Lambs (Mixed)",
-      "offered": "1,775",
+      "offered": "1,715",
       "weight_range": "40 - 104kg",
-      "avg_weight": "61kg",
-      "dollar_head_range": "$400 - $616",
-      "avg_dollar_head": "$457",
-      "change_dollar_head": "4",
-      "c_kg_range": "559 - 1,027c",
-      "avg_c_kg": "802c",
-      "change_c_kg": "154",
-      "clearance": "67%"
+      "avg_weight": "60kg",
+      "dollar_head_range": "$420 - $616",
+      "avg_dollar_head": "$460",
+      "change_dollar_head": "10",
+      "c_kg_range": "617 - 1,027c",
+      "avg_c_kg": "815c",
+      "change_c_kg": "172",
+      "clearance": "66%"
     },
     {
       "stock_category": "Sheep",
@@ -149,10 +149,10 @@
       "avg_weight": "54kg",
       "dollar_head_range": "$238 - $452",
       "avg_dollar_head": "$333",
-      "change_dollar_head": "-2",
+      "change_dollar_head": "-7",
       "c_kg_range": "478 - 747c",
       "avg_c_kg": "620c",
-      "change_c_kg": "-26",
+      "change_c_kg": "-32",
       "clearance": "60%"
     },
     {
@@ -186,16 +186,16 @@
     {
       "stock_category": "NSM Ewes",
       "category": "Shedding Breed Ewes",
-      "offered": "2,535",
+      "offered": "2,494",
       "weight_range": "32 - 115kg",
-      "avg_weight": "56kg",
+      "avg_weight": "57kg",
       "dollar_head_range": "$263 - $400",
       "avg_dollar_head": "$327",
-      "change_dollar_head": "52",
+      "change_dollar_head": "50",
       "c_kg_range": "344 - 689c",
-      "avg_c_kg": "497c",
-      "change_c_kg": "-110",
-      "clearance": "35%"
+      "avg_c_kg": "490c",
+      "change_c_kg": "-117",
+      "clearance": "34%"
     },
     {
       "stock_category": "NSM Ewes",
