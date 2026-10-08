@@ -34,10 +34,10 @@ Merino Wether Lambs
 36kg
 $126 - $219
 $186
--12
+-15
 409 - 641c
 523c
-24
+14
 93%
 Lambs
 Merino Ewe Lambs
@@ -89,16 +89,16 @@ $227
 28%
 Sheep
 Merino Ewes & Lambs
-474
-42 - 75kg
-59kg
-$274 - $400
-$310
+214
+46 - 75kg
+62kg
+$400 - $400
+$400
 -
-521 - 701c
-572c
+701 - 701c
+701c
 -
-77%
+49%
 Sheep
 Ewes & Lambs (Mixed)
 290
