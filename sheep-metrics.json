@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T15:29:03.459Z",
+  "updated_at": "2026-10-22T15:28:03.731Z",
   "national": [
     {
       "stock_category": "Lambs",
@@ -12,7 +12,7 @@
       "change_dollar_head": "-5",
       "c_kg_range": "513 - 697c",
       "avg_c_kg": "606c",
-      "change_c_kg": "4",
+      "change_c_kg": "3",
       "clearance": "91%"
     },
     {
@@ -23,10 +23,10 @@
       "avg_weight": "39kg",
       "dollar_head_range": "$64 - $249",
       "avg_dollar_head": "$196",
-      "change_dollar_head": "-5",
+      "change_dollar_head": "-11",
       "c_kg_range": "180 - 600c",
       "avg_c_kg": "510c",
-      "change_c_kg": "-22",
+      "change_c_kg": "-33",
       "clearance": "100%"
     },
     {
@@ -37,10 +37,10 @@
       "avg_weight": "52kg",
       "dollar_head_range": "$282 - $352",
       "avg_dollar_head": "$331",
-      "change_dollar_head": "73",
+      "change_dollar_head": "43",
       "c_kg_range": "607 - 659c",
       "avg_c_kg": "634c",
-      "change_c_kg": "36",
+      "change_c_kg": "8",
       "clearance": "84%"
     },
     {
@@ -102,16 +102,16 @@
     {
       "stock_category": "Sheep",
       "category": "Ewes & Lambs (Mixed)",
-      "offered": "605",
+      "offered": "419",
       "weight_range": "45 - 97kg",
-      "avg_weight": "62kg",
+      "avg_weight": "65kg",
       "dollar_head_range": "$320 - $494",
       "avg_dollar_head": "$404",
       "change_dollar_head": "-86",
       "c_kg_range": "560 - 879c",
       "avg_c_kg": "715c",
       "change_c_kg": "-36",
-      "clearance": "25%"
+      "clearance": "37%"
     },
     {
       "stock_category": "Sheep",
@@ -247,10 +247,10 @@
       "avg_weight": "55kg",
       "dollar_head_range": "$260 - $416",
       "avg_dollar_head": "$379",
-      "change_dollar_head": "16",
+      "change_dollar_head": "3",
       "c_kg_range": "302 - 858c",
       "avg_c_kg": "696c",
-      "change_c_kg": "48",
+      "change_c_kg": "28",
       "clearance": "66%"
     }
   ]
